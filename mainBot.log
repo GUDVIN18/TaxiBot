@@ -1,0 +1,1069 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:aiogram.event:Update id=768884492 is handled. Duration 204 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884493 is handled. Duration 206 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884494 is handled. Duration 302 ms by bot id=8695714811
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:Stop signal received (SIGINT). Exiting...
+INFO:root:Stop signal received (SIGINT). Exiting...
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.event:Update id=768884491 is not handled. Duration 4037 ms by bot id=8695714811
+INFO:root:Stop signal received (SIGINT). Exiting...
+INFO:root:Stop signal received (SIGINT). Exiting...
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:pyrogram.connection.connection:Connecting...
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.event:Update id=768884495 is handled. Duration 284 ms by bot id=8695714811
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:aiogram.event:Update id=768884496 is handled. Duration 1276 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884497 is handled. Duration 133 ms by bot id=8695714811
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:aiogram.event:Update id=768884499 is handled. Duration 163 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884500 is handled. Duration 64 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884501 is handled. Duration 54 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884498 is handled. Duration 60362 ms by bot id=8695714811
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.event:Update id=768884502 is handled. Duration 190 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884503 is handled. Duration 49 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884504 is handled. Duration 176 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884505 is handled. Duration 56 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884506 is handled. Duration 53 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884507 is handled. Duration 57 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884508 is handled. Duration 52 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884509 is handled. Duration 53 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884510 is handled. Duration 59 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884511 is handled. Duration 64 ms by bot id=8695714811
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:aiogram.event:Update id=768884512 is handled. Duration 181 ms by bot id=8695714811
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:pyrogram.dispatcher:invalid literal for int() with base 10: 'Стоимость3369,26₽'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/bot/userBot/userbot.py", line 37, in handle_message
+    order_id = int(''.join(params[-1].replace('Поездка №', '').split()))
+ValueError: invalid literal for int() with base 10: 'Стоимость3369,26₽'
+ERROR:pyrogram.dispatcher:invalid literal for int() with base 10: 'Стоимость3369,26₽'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/bot/userBot/userbot.py", line 37, in handle_message
+    order_id = int(''.join(params[-1].replace('Поездка №', '').split()))
+ValueError: invalid literal for int() with base 10: 'Стоимость3369,26₽'
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:aiogram.event:Update id=768884513 is handled. Duration 193 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884514 is handled. Duration 157 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884515 is handled. Duration 165 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884516 is handled. Duration 52 ms by bot id=8695714811
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:aiogram.event:Update id=768884517 is handled. Duration 171 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884518 is handled. Duration 66 ms by bot id=8695714811
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.278553 seconds and try again... (tryings = 1, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 2, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:aiogram.event:Update id=768884519 is handled. Duration 227 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884520 is handled. Duration 99 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884521 is handled. Duration 88 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884522 is handled. Duration 86 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884523 is handled. Duration 94 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884524 is handled. Duration 84 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884525 is handled. Duration 87 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884526 is handled. Duration 86 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884527 is handled. Duration 189 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884528 is handled. Duration 90 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884529 is handled. Duration 82 ms by bot id=8695714811
+ERROR:pyrogram.dispatcher:invalid literal for int() with base 10: 'Стоимость3187,94₽'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/bot/userBot/userbot.py", line 37, in handle_message
+    order_id = int(''.join(params[-1].replace('Поездка №', '').split()))
+ValueError: invalid literal for int() with base 10: 'Стоимость3187,94₽'
+ERROR:pyrogram.dispatcher:invalid literal for int() with base 10: 'Стоимость3187,94₽'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/bot/userBot/userbot.py", line 37, in handle_message
+    order_id = int(''.join(params[-1].replace('Поездка №', '').split()))
+ValueError: invalid literal for int() with base 10: 'Стоимость3187,94₽'
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.293212 seconds and try again... (tryings = 1, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 2, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.460878 seconds and try again... (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.918613 seconds and try again... (tryings = 2, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 3, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.380125 seconds and try again... (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.796534 seconds and try again... (tryings = 2, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 3, bot id = 8695714811)
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.435177 seconds and try again... (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.841061 seconds and try again... (tryings = 2, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 2.403485 seconds and try again... (tryings = 3, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 3.033816 seconds and try again... (tryings = 4, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 4.022718 seconds and try again... (tryings = 5, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 5.046380 seconds and try again... (tryings = 6, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 7, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.517047 seconds and try again... (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.914389 seconds and try again... (tryings = 2, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 3, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.284745 seconds and try again... (tryings = 1, bot id = 8695714811)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.752724 seconds and try again... (tryings = 2, bot id = 8695714811)
+INFO:aiogram.dispatcher:Connection established (tryings = 3, bot id = 8695714811)
+INFO:aiogram.event:Update id=768884532 is handled. Duration 168 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884531 is handled. Duration 185 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884533 is handled. Duration 235 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884534 is handled. Duration 65 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884535 is handled. Duration 70 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884536 is handled. Duration 85 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884537 is handled. Duration 53 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884530 is handled. Duration 61022 ms by bot id=8695714811
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+WARNING:pyrogram.connection.connection:Connection failed! Trying again...
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+WARNING:pyrogram.connection.connection:Connection failed! Trying again...
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:aiogram.event:Update id=768884552 is handled. Duration 169 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884574 is handled. Duration 156 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884551 is handled. Duration 174 ms by bot id=8695714811
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.event:Update id=768884576 is handled. Duration 219 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884573 is handled. Duration 226 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884575 is handled. Duration 238 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884554 is handled. Duration 276 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884577 is handled. Duration 81 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884560 is handled. Duration 60663 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:aiogram.event:Update id=768884581 is handled. Duration 164 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884579 is handled. Duration 170 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884583 is handled. Duration 178 ms by bot id=8695714811
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.event:Update id=768884590 is handled. Duration 65 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884591 is handled. Duration 64 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884586 is handled. Duration 60644 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:aiogram.dispatcher:Start polling
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+WARNING:pyrogram.connection.connection:Connection failed! Trying again...
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.event:Update id=768884597 is handled. Duration 614 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884596 is handled. Duration 625 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884599 is handled. Duration 642 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884600 is handled. Duration 93 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884594 is handled. Duration 60591 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:aiogram.event:Update id=768884602 is handled. Duration 177 ms by bot id=8695714811
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884601 is handled. Duration 61019 ms by bot id=8695714811
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+WARNING:pyrogram.connection.connection:Connection failed! Trying again...
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884603 is handled. Duration 60579 ms by bot id=8695714811
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.event:Update id=768884605 is not handled. Duration 19917 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884604 is not handled. Duration 30379 ms by bot id=8695714811
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+WARNING:pyrogram.connection.connection:Unable to connect due to network issues: Connection timed out
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.event:Update id=768884609 is handled. Duration 318 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884610 is handled. Duration 219 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884606 is handled. Duration 60210 ms by bot id=8695714811
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.event:Update id=768884608 is not handled. Duration 52974 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884607 is not handled. Duration 54806 ms by bot id=8695714811
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.event:Update id=768884611 is handled. Duration 267 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884612 is handled. Duration 91 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884613 is handled. Duration 98 ms by bot id=8695714811
+INFO:aiogram.event:Update id=768884615 is not handled. Duration 2 ms by bot id=8695714811
+ERROR:root:=============== [ NETWORK ERROR ] =============
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:aiogram.event:Update id=768884614 is handled. Duration 60265 ms by bot id=8695714811
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @taxi_andbuzh_bot id=8695714811 - 'andbuzh'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.event:Update id=768884616 is not handled. Duration 32569 ms by bot id=8695714811
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.dispatcher:Start polling
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:Stop signal received (SIGTERM). Exiting...
+INFO:pyrogram.dispatcher:Stopped 5 HandlerTasks
+INFO:pyrogram.session.session:PingTask stopped
+INFO:pyrogram.connection.connection:Disconnected
+INFO:pyrogram.session.session:NetworkTask stopped
+INFO:pyrogram.session.session:Session stopped
+INFO:pyrogram.connection.connection:Connecting...
+INFO:pyrogram.connection.connection:Connected! Production DC2 - IPv4
+INFO:pyrogram.session.session:NetworkTask started
+INFO:pyrogram.session.session:Session initialized: Layer 158
+INFO:pyrogram.session.session:Device: CPython 3.10.12 - Pyrogram 2.0.106
+INFO:pyrogram.session.session:System: Linux 5.15.0-107-generic (en)
+INFO:pyrogram.session.session:Session started
+INFO:pyrogram.session.session:PingTask started
+INFO:pyrogram.dispatcher:Started 5 HandlerTasks
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Polling stopped
