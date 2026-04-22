@@ -9,7 +9,15 @@ def main_keyboard():
 
 
 def choice_class_kb():
-    buttons = ['🔴 Стандарт', '🔴 Комфорт', '🔴 Бизнес', '🔴 Представительский', '🔴 Минивэн', '➡️ Продолжить']
+    buttons = [
+        '🔴 Стандарт', 
+        '🔴 Комфорт', 
+        '🔴 Бизнес', 
+        '🔴 Бизнес лайт',
+        '🔴 Представительский', 
+        '🔴 Минивэн', 
+        '➡️ Продолжить'
+    ]
     builder = InlineKeyboardBuilder()
     for i, item in enumerate(buttons):
         builder.add(InlineKeyboardButton(text=item, callback_data=f"class {i}"))
